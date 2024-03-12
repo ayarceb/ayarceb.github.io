@@ -6,7 +6,7 @@ excerpt: 'A data assimilation system for the LOTOS-EUROS chemical transport mode
 date: 2020-07-01
 venue: 'Atmospheric Environment'
 paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://www.sciencedirect.com/science/article/abs/pii/S1352231020302442)'
-citation: 'Lopez-Restrepo, S., Yarce, A., Pinel, N., Quintero, O. L., Segers, A., & Heemink, A. W. (2020). Forecasting PM10 and PM2. 5 in the Aburrá Valley (Medellín, Colombia) via EnKF based data assimilation. Atmospheric environment, 232, 117507.'
+citation: 'Lopez-Restrepo, S., Yarce Botero, A., Pinel, N., Quintero, O. L., Segers, A., & Heemink, A. W. (2020). Forecasting PM10 and PM2. 5 in the Aburrá Valley (Medellín, Colombia) via EnKF based data assimilation. Atmospheric environment, 232, 117507.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
