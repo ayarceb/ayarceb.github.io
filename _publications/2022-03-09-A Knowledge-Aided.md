@@ -1,12 +1,10 @@
 ---
 title: "A Knowledge-Aided Robust Ensemble Kalman Filter Algorithm for Non-Linear and Non-Gaussian Large Systems"
 collection: publications
-permalink: /publication/2022-03-09-A Knowledge-Aided.md
+permalink: 'https://www.frontiersin.org/articles/10.3389/fams.2022.830116/full'
 excerpt: 'This work proposes a robust and non-Gaussian version of the shrinkage-based knowledge-aided EnKF implementation called Ensemble Time Local H∞ Filter Knowledge-Aided (EnTLHF-KA). The EnTLHF-KA requires a target covariance matrix to integrate previously obtained information and knowledge directly into the data assimilation (DA). The proposed method is based on the robust H∞ filter and on its ensemble time-local version the EnTLHF, using an adaptive inflation factor depending on the shrinkage covariance estimated matrix. This implies a theoretical and solid background to construct robust filters from the well-known covariance inflation technique. The proposed technique is implemented in a synthetic assimilation experiment, and in an air quality application using the LOTOS-EUROS model over the Aburrá Valley to evaluate its potential for non-linear and non-Gaussian large systems. In the spatial distribution of the PM2.5 concentrations along the valley, the method outperforms the well-known Local Ensemble Transform Kalman Filter (LETKF), and the non-robust knowledge-aided Ensemble Kalman filter (EnKF-KA). In contrast to the other simulations, the ability to issue warnings for high concentration events is also increased. Finally, the simulation using EnTLHF-KA has lower error values than using EnKF-KA, indicating the advantages of robust approaches in high uncertainty systems.'
 date: 2022-03-09
 venue: 'Frontiers in Applied Mathematics and Statistics'
-paperurl: '[https://www.frontiersin.org/articles/10.3389/fams.2022.830116/full]'
+paperurl: 'https://www.frontiersin.org/articles/10.3389/fams.2022.830116/full'
 citation: 'Lopez-Restrepo, S., Yarce Botero, A, Pinel, N., Quintero, O. L., Segers, A., & Heemink, A. W. (2022). A Knowledge-Aided Robust Ensemble Kalman Filter Algorithm for Non-Linear and Non-Gaussian Large Systems. Frontiers in Applied Mathematics and Statistics, 8, 830116.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
