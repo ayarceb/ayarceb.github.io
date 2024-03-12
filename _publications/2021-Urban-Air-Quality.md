@@ -6,7 +6,7 @@ excerpt: 'The use of low air quality networks has been increasing in recent year
 date: 2021-01-01
 venue: 'Atmosphere'
 paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://www.mdpi.com/2073-4433/12/1/91)'
-citation: 'Lopez-Restrepo, S., Yarce, A., Pinel, N., Quintero, O. L., Segers, A., & Heemink, A. W. (2021). Urban air quality modeling using low-cost sensor network and data assimilation in the aburrá valley, colombia. Atmosphere, 12(1), 91.'
+citation: 'Lopez-Restrepo, S., Yarce Botero, A., Pinel, N., Quintero, O. L., Segers, A., & Heemink, A. W. (2021). Urban air quality modeling using low-cost sensor network and data assimilation in the aburrá valley, colombia. Atmosphere, 12(1), 91.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
