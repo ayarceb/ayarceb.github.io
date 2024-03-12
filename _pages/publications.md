@@ -16,8 +16,6 @@ Lopez-Restrepo, S., Yarce Botero, A., Pinel Peláez, N., Quintero, O. L., Segers
 
 Lopez-Restrepo, S., Niño Ruis, E. D., Guzman Reyes, L. Yarce Botero, A., Pinel, N., Quintero, O. L., Segers, A., Heemink, A. W., An efficient ensemble Kalman Filter implementation via shrinkage covariance matrix estimation: exploiting prior knowledge,Computational Geosciences 25,985 (2021)
 
-Hinestroza-Ramirez, J. E., Lopez-Restrepo, S., Yarce Botero, A., Segers, A., Rendon-Perez, A. M., Isaza-Cadavid, S., ... Quintero, O. L. ,Improving Air Pollution Modelling in Complex Terrain with a Coupled WRF–LOTOS–EUROS Approach: A Case Study in Aburrá Valley, Colombia,Atmosphere, 14(4), 738.(2023)
-
 Hinestroza-Ramirez, J., Rengifo-Castro, J., Quintero, O., Yarce Botero, A.,Rendon-Perez, A, Non-Parametric and Robust Sensitivity Analysis of the Weather Research and Forecast (WRF) Model in the Tropical Andes Region.,Atmosphere,14(4), 686. (2023)
 
 Hinestroza-Ramirez, J., Soto Barbosa,J.E, Yarce Botero, A., Suarez Higuita, D.A., Lopez Restrepo,S.,..., Quintero Montoya,O.,textbf Evaluation of the 3DVAR Operational Implementation of the Colombian Air Force for Aircraft Operations: A Case Study,Climate, 11(7), 153, (2023)
