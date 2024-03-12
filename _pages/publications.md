@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-Yarce Botero, A., Lopez-Restrepo, S., Pinel Peláez, N., Quintero, O. L., Segers, A.,Heemink, A. W., Estimating NOx LOTOS-EUROS CTM Emission Parameters over the Northwest of South America through 4DEnVar TROPOMI NO2 Assimilation, Atmosphere, 12(12), 1633. (2021).
-
 Yarce Botero, A., Quintero, O. L., Segers, A., Heemink, A. W., Estimating Wind and Emission Parameters in an atmospheric transport model, Eurosim (2023)(Submitted).
 
 Yarce Botero, A., Santiago Lopez-Restrepo, Nicolas Pinel, O.L Quintero, Arjo Segers, and A.W. Heemink. (2017).Characterization and analysis of satellite and ground data available for the Aburrá Valley (Medellin Metropolitan Area) as inputs for air quality models, 3th CMAS South America Conference, Vitoria-Brazil .
