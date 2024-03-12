@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Andrés Yarce Botero"
 title_separator          : "-"
 name                     : &name "Andrés Yarce Botero"
 description              : &description "Ph.D. in Applied Mathematics TUDelft / Ph.D Mathematical Engineering EAFIT. Physical Engineer - EAFIT, MSc Applied Physics - EAFIT. Assimilation of satellite data in large-scale models such as transport chemistry."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ayarceb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
