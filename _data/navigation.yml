@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /files/CV__Andres_Yarce_Botero_.pdf
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
