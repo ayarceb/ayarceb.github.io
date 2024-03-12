@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-Yarce Botero, A., Lopez-Restrepo, S., Pinel Peláez, N., Quintero, O. L., Segers, A., Heemink, A. W., Medellin Air Quality Initiative (MAUI)., Environmental Sustainability: Preparing for Tomorrow 18, 99 (2021).
-
-Yarce Botero, A. et al.,Design and Implementation of a Low-Cost Air Quality Network for the Aburra Valley Surrounding Mountains., Pollutants 3.1 17, 549 (2023).
-
 Yarce Botero, A., Lopez-Restrepo, S., Pinel Peláez, N., Quintero, O. L., Segers, A.,Heemink, A. W., Estimating NOx LOTOS-EUROS CTM Emission Parameters over the Northwest of South America through 4DEnVar TROPOMI NO2 Assimilation, Atmosphere, 12(12), 1633. (2021).
 
 Yarce Botero, A., Quintero, O. L., Segers, A., Heemink, A. W., Estimating Wind and Emission Parameters in an atmospheric transport model, Eurosim (2023)(Submitted).
