@@ -14,8 +14,6 @@ author_profile: true
 
 Lopez-Restrepo, S., Yarce Botero, A., Pinel Peláez, N., Quintero, O. L., Segers, A., Heemink, A. W., Data Assimilation as a Tool to Improve Chemical Transport Models Performance in Developing Countries, Environmental Sustainability: Preparing for Tomorrow 18, 99 (2021).
 
-Lopez-Restrepo, S., Yarce Botero, A., Pinel, N., Quintero, O. L., Segers, A.,Heemink, A. W.,Forecasting PM10 and PM2. 5 in the Aburrá Valley (Medellín, Colombia) via EnKF based data assimilation,Atmospheric Environment 232 (2020): 117507
-
 Lopez-Restrepo, S., Yarce Botero, A., Pinel, N., Quintero, O. L., Segers, A., Heemink, A. W., Urban Air Quality Modeling Using Low-Cost Sensor Network and Data Assimilation in the Aburrá Valley, Colombia,Atmosphere 2021, 12(1),91 131
 
 Lopez-Restrepo, S., Niño Ruis, E. D., Guzman Reyes, L. Yarce Botero, A., Pinel, N., Quintero, O. L., Segers, A., Heemink, A. W., An efficient ensemble Kalman Filter implementation via shrinkage covariance matrix estimation: exploiting prior knowledge,Computational Geosciences 25,985 (2021)
