@@ -10,7 +10,5 @@ citation: 'Botero, A. Y., Rodriguez, J. S., Gálvez, J., Lopera, D. V., Montilla
 ---
 
 
-<figure markdown>
-  ![image](HIPAE.jpg){: style="height:83px"}
-  <figcaption>Partners</figcaption>
-</figure>
+![image](HIPAE.jpg){: style="height:83px"}
+
