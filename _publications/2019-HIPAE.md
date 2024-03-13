@@ -12,6 +12,6 @@ citation: 'Botero, A. Y., Rodriguez, J. S., Gálvez, J., Lopera, D. V., Montilla
 Image paper: 
 ![image ](https://github.com/ayarceb/ayarceb.github.io/blob/master/_publications/HIPAE.png)
 
-<img src="markdownmonstericon.png"
+<img src="https://github.com/ayarceb/ayarceb.github.io/blob/master/_publications/HIPAE.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
