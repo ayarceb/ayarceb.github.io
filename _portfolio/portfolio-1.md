@@ -1,6 +1,8 @@
 ---
 title: "Data Assimilation Lorenz 96"
-excerpt: "Short description of portfolio item number 1 <img src='/images/front.png'>"
+excerpt: "Short description of portfolio item number 1 
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+"
 collection: portfolio
 ---
 
