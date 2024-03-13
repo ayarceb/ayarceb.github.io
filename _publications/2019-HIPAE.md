@@ -10,4 +10,4 @@ citation: 'Botero, A. Y., Rodriguez, J. S., Gálvez, J., Lopera, D. V., Montilla
 ---
 
 
-![Markdown symbol](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)  
+
