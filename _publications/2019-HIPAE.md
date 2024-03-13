@@ -12,4 +12,4 @@ citation: 'Botero, A. Y., Rodriguez, J. S., Gálvez, J., Lopera, D. V., Montilla
 
 
 
-![image]([https://github.com/ayarceb/ayarceb.github.io/assets/6650743/311e381a-55f9-4403-9d18-19a4d99a393e](https://github.com/ayarceb/ayarceb.github.io/blob/master/_publications/HIPAE.png)https://github.com/ayarceb/ayarceb.github.io/blob/master/_publications/HIPAE.png)
+![image]([https://github.com/ayarceb/ayarceb.github.io/assets/6650743/311e381a-55f9-4403-9d18-19a4d99a393e](https://github.com/ayarceb/ayarceb.github.io/blob/master/_publications/HIPAE.png)
