@@ -10,6 +10,6 @@ citation: 'Botero, A. Y., Rodriguez, J. S., Gálvez, J., Lopera, D. V., Montilla
 ---
 
 
-[![image](HIPAE.png)](https://github.com/ayarceb/ayarceb.github.io/blob/master/_publications/HIPAE.png)https://github.com/ayarceb/ayarceb.github.io/blob/master/_publications/HIPAE.png)
+[![image](HIPAE.png)](https://github.com/ayarceb/ayarceb.github.io/blob/master/_publications/HIPAE.png)
 
 
