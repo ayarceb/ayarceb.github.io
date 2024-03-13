@@ -10,6 +10,6 @@ citation: 'Yarce Botero, A., Lopez-Restrepo, S., Pinel Peláez, N., Quintero, O.
 ---
 
 
+<img src='/images/4DEnvar.png'>
 
 
- [![image](4DEnvar.png)](https://github.com/ayarceb/ayarceb.github.io/blob/master/_publications/4DEnvar.png)
