@@ -9,9 +9,5 @@ paperurl: 'https://ieeexplore.ieee.org/document/9364040'
 citation: 'Botero, A. Y., Rodriguez, J. S., Gálvez, J., Lopera, D. V., Montilla, E., Marulanda, J. I., ... & Quintero, O. L. (2019, August). HIPAE helicopter-borne in-situ pollution assessment experiment: Plataforma alternativa para la medición de contaminantes en capas verticales. In 2019 Congreso Colombiano y Conferencia Internacional de Calidad de Aire y Salud Pública (CASP) (pp. 1-5). IEEE.'
 ---
 
-Image paper: 
-![image ](https://github.com/ayarceb/ayarceb.github.io/blob/master/_publications/HIPAE.png)
 
-<img src="https://github.com/ayarceb/ayarceb.github.io/blob/master/_publications/HIPAE.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<img src="https://github.com/ayarceb/ayarceb.github.io/blob/master/_publications/HIPAE.png"/>
