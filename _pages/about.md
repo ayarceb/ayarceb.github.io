@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic personal background"
+title: "Academic background"
 author_profile: true
 redirect_from: 
   - /about/
