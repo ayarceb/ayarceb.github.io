@@ -7,15 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Andrés Yarce Botero was born the 24-12-1987 in Medellin, Colombia. Due to his father's work his family lived in Bogotá and from 1994--2005 he went to primary school in Colegio Italiano Leonardo Da Vinci, Bogotá Colombia (1994--2000) and in Colegio Padre Manyanet, Medellin Colombia (2001--2005) once his family moved back to Medellin.
+During my Ph.D. I worked as a postdoc at TuDelft-KNMI-VU PIPP project "High Resolution to Exploit Nitrogen Chemical Compound Observations from Space in the Netherlands" (2021---2024). 
 
-From 2006--2014 he studied in Physics in Universidad de Antioquia, Medellin Colombia (2006--2009) not finishing due and later studied Physical Engineering in Universidad EAFIT, Medellin Colombia (2010--2014). 
-    
-After finishing the bachelor starts a MsC in Applied Physics Universidad EAFIT, Medellin Colombia (2015--2016). 
+In 2024 I received my PhD in Applied Mathematics/Mathematical Engineering TuDelft in Delft, the Netherlands and in Universidad EAFIT, Medellin, Colombia with the thesis entitled Data assimilation in a LOTOS-EUROS chemical transport model for Colombia using satellite measurements.
 
-From 2017-2022 he will pursue a PhD in Applied Mathematics/Mathematical Engineering TuDelft in Delft, the Netherlands and in Universidad EAFIT, Medellin, Colombia with the thesis entitled Data assimilation in a LOTOS-EUROS chemical transport model for Colombia using satellite measurements.
+From 2015-2016 I did a MsC in Applied Physics Universidad EAFIT, Medellin Colombia and From 2006--2014 I studied in Physics in Universidad de Antioquia, Medellin Colombia (2006--2009) not finishing due and later studied Physical Engineering in Universidad EAFIT, Medellin Colombia (2010--2014). 
  
-During his Ph.D. he worked as a postdoc at TuDelft-KNMI-VU PIPP project "High Resolution to Exploit Nitrogen Chemical Compound Observations from Space in the Netherlands" (2021---2024). 
+
+I the 24-12-1987 in Medellin, Colombia. Due to my father's work my family lived in Bogotá from 1994--2005 and I went to primary school in Colegio Italiano Leonardo Da Vinci, Bogotá Colombia (1994--2000) and in Colegio Padre Manyanet, Medellin Colombia (2001--2005) once my family moved back to Medellin.
 
 
 Research interests
