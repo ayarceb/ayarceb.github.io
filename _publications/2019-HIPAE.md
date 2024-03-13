@@ -1,5 +1,3 @@
-
-![ScreenShot](HIPAE.jpg "HIPAE")
 ---
 title: "HIPAE Helicopter-borne In-situ Pollution Assessment Experiment: plataforma alternativa para la medición de contaminantes en capas verticales"
 collection: publications
