@@ -1,6 +1,6 @@
 ---
 title: "Data Assimilation Lorenz 96"
-excerpt: "Short description of portfolio item number 1 <img src='front.png'>"
+excerpt: "Short description of portfolio item number 1 <br/><img src='front.png'>"
 collection: portfolio
 ---
 
