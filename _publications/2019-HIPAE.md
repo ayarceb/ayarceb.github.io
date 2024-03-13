@@ -10,6 +10,6 @@ citation: 'Botero, A. Y., Rodriguez, J. S., Gálvez, J., Lopera, D. V., Montilla
 ---
 
 Images from the paper
-![image](/HIPAE.png)
+![image](HIPAE.png)
 
 
