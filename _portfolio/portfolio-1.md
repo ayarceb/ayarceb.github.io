@@ -6,7 +6,7 @@ excerpt: "
 collection: portfolio
 ---
 
-[link DALO] (https://github.com/ayarceb/DALo96)
+[link DALO](https://github.com/ayarceb/DALo96)
 
 
 
