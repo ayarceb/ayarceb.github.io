@@ -1,7 +1,7 @@
 ---
 title: "Data Assimilation Lorenz 96"
 excerpt: " 
-![Sonny and Mariel high fiving.](front.png)
+![Low-cost air quality sensors](Image_Sensors.png)
 "
 collection: portfolio
 ---
