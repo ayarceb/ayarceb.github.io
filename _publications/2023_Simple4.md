@@ -9,6 +9,6 @@ paperurl: 'https://www.mdpi.com/2673-4672/3/1/12'
 citation: 'Yarce Botero, A., Lopez Restrepo, S., Sebastian Rodriguez, J., Valle, D., Galvez-Serna, J., Montilla, E., ... & Pinel, N. (2023). Design and Implementation of a Low-Cost Air Quality Network for the Aburra Valley Surrounding Mountains. Pollutants, 3(1), 150-165.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
 
 
