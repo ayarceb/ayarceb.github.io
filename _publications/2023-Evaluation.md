@@ -9,4 +9,4 @@ paperurl: 'https://www.mdpi.com/2225-1154/11/7/153'
 citation: 'Hinestroza-Ramirez, J. E., Soto Barbosa, J. E., Yarce Botero, A., Suárez Higuita, D. A., Lopez-Restrepo, S., Cruz Ruiz, L. M., ... & Quintero, O. L. (2023). Evaluation of the 3DVAR Operational Implementation of the Colombian Air Force for Aircraft Operations: A Case Study. Climate, 11(7), 153.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
