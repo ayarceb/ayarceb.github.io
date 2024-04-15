@@ -8,4 +8,4 @@ venue: 'Climate'
 paperurl: 'https://www.mdpi.com/2225-1154/11/7/153'
 citation: 'Hinestroza-Ramirez, J. E., Soto Barbosa, J. E., Yarce Botero, A., Suárez Higuita, D. A., Lopez-Restrepo, S., Cruz Ruiz, L. M., ... & Quintero, O. L. (2023). Evaluation of the 3DVAR Operational Implementation of the Colombian Air Force for Aircraft Operations: A Case Study. Climate, 11(7), 153.'
 ---
-![Image 3DVar Evaluation WRF FAC](![alt text](3dVar.png)
+![Image 3DVar Evaluation WRF FAC](3dVar.png)
