@@ -8,3 +8,4 @@ venue: 'Geoscientific Model Development'
 paperurl: 'https://gmd.copernicus.org/articles/17/3765/2024/gmd-17-3765-2024.html'
 citation: 'Yarce Botero, A., van Weele, M., Segers, A., Siebesma, P., and Eskes, H.: Investigating the impact of coupling HARMONIE-WINS50 (cy43) meteorology to LOTOS-EUROS (v2.2.002) on a simulation of NO2 concentrations over the Netherlands, Geosci. Model Dev., 17, 3765–3781, https://doi.org/10.5194/gmd-17-3765-2024, 2024.'
 ---
+<img src='/images/HARMONIE_model_comparisons.png'>
