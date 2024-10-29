@@ -8,4 +8,4 @@ date: 2024-09-26
 location: "Utrecht, The Netherlands"
 ---
 
-[Programme](https://www.eurosim2022.eu/wp-content/uploads/2023/06/progam30062023.pdf)
+[Programme](https://www.eo-council.nl/wp-content/uploads/2024/09/NSOAQ_workshopprogram_vFinal.pdf)
