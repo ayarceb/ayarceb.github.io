@@ -1,4 +1,3 @@
-
 ---
 title: "High Altitude Ballooning proyecto EAFITHAB"
 excerpt: " 
@@ -6,5 +5,3 @@ excerpt: "
 "
 collection: portfolio
 ---
-
-
