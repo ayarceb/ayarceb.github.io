@@ -5,6 +5,3 @@ excerpt: "
 "
 collection: portfolio
 ---
-
-
-
