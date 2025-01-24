@@ -9,7 +9,7 @@ redirect_from:
 
 In 2024 I received my Ph.D. in Applied Mathematics/Mathematical Engineering from [TuDelft](https://www.tudelft.nl/) in Delft, the Netherlands, and [Universidad EAFIT](https://www.eafit.edu.co/), Medellin, Colombia, with a [thesis](https://repository.tudelft.nl/islandora/object/uuid%3Ae202a1f3-9c73-42d1-b7f6-d45f9631df74) entitled Data assimilation in a LOTOS-EUROS chemical transport model for Colombia using satellite measurements.
 
-During my Ph.D., I worked as a postdoc in the TuDelft-[KNMI](www.knmi.nl)-[VU](https://vu.nl/) PIPP project "High Resolution to Exploit Nitrogen Chemical Compound Observations from Space in the Netherlands" (2021---2024).
+During my Ph.D., I worked as a postdoc in the [TuDelft](https://www.tudelft.nl/en/)-[KNMI](www.knmi.nl)-[VU](https://vu.nl/) PIPP project "High Resolution to Exploit Nitrogen Chemical Compound Observations from Space in the Netherlands" (2021---2024).
 
 From 2015-2016 I did a MSc in Applied Physics at Universidad EAFIT, Medellin Colombia and from 2006--2014. I studied Physics at Universidad de Antioquia, Medellin Colombia (2006--2009) not finished and later studied Physical Engineering at Universidad EAFIT, Medellin Colombia (2010--2014). 
  
